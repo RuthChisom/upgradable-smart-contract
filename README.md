@@ -62,7 +62,6 @@ Why? So it doesn’t interfere with variables in the logic contract.
 ## 📚 Resources
 
 - [EIP-1967 Explained](https://eips.ethereum.org/EIPS/eip-1967)
-- [OpenZeppelin Upgrades Guide](https://docs.openzeppelin.com/upgrades/2.3/)
 - [Solidity Docs](https://docs.soliditylang.org/en/v0.8.19/)
 
 ---
